@@ -1,0 +1,18 @@
+{
+    "name": "islam-mohamed98/inspire",
+    "description": "Showing Quotes",
+    "autoload": {
+        "psr-4": {
+            "IslamMohamed98\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Islam-Mohamed98",
+            "email": "eslamce122@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
